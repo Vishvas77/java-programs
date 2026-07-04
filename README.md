@@ -1,90 +1,59 @@
-# \# ☕ Java Programs
+# ☕ Java Programs
 
-# 
+A collection of Java programs, lab exercises, and mini projects covering Core Java, Object-Oriented Programming (OOP), Collections Framework, Swing, JDBC, and file handling.
 
-# A comprehensive collection of Java programs, lab exercises, and mini projects covering Core Java, Object-Oriented Programming (OOP), Collections Framework, Swing, JDBC, and file handling.
+---
 
-# 
+## 📚 Topics Covered
 
-# \## 📚 Course Topics
+- Core Java
+- Classes & Objects
+- Constructors
+- Inheritance
+- Polymorphism
+- Interfaces
+- Packages
+- Exception Handling
+- Multithreading
+- Collections Framework
+- File Handling
+- Swing GUI
+- JDBC
 
-# 
+---
 
-# \- Introduction to Java
+## 📂 Repository Structure
 
-# \- Classes and Objects
+```text
+java-programs/
+│
+├── 01_Basics/
+├── 02_OOP/
+├── 03_Inheritance/
+├── 04_Exception_Handling/
+├── 05_Multithreading/
+├── 06_Collections/
+├── 07_File_Handling/
+├── 08_Swing/
+├── 09_JDBC/
+└── README.md
+```
 
-# \- Constructors
+---
 
-# \- Inheritance
+## 🛠️ Tech Stack
 
-# \- Polymorphism
+- Java 8 (JDK 1.8)
+- VS Code
+- Git
+- GitHub
 
-# \- Interfaces
+---
 
-# \- Packages
+## 🎯 Purpose
 
-# \- Exception Handling
+This repository documents my Java learning journey through lab programs, practice exercises, and mini projects as part of my B.Tech Computer Science and Engineering coursework.
 
-# \- Multithreading
+---
 
-# \- Collections Framework
-
-# \- File Handling
-
-# \- Swing GUI
-
-# \- JDBC
-
-# 
-
-# \## 📂 Repository Structure
-
-# 
-
-# ```
-
-# java-programs/
-
-# │
-
-# ├── Unit-1-OOP/
-
-# ├── Unit-2-Exceptions-and-Threads/
-
-# ├── Unit-3-Collections/
-
-# ├── Unit-4-Swing/
-
-# ├── Unit-5-JDBC/
-
-# └── README.md
-
-# ```
-
-# 
-
-# \## 🚀 Technologies
-
-# 
-
-# \- Java 8 (JDK 1.8)
-
-# \- VS Code
-
-# \- Git \& GitHub
-
-# 
-
-# \## 🎯 Purpose
-
-# 
-
-# This repository documents my Java learning journey through lab programs, practice exercises, and mini projects as part of my B.Tech Computer Science curriculum.
-
-# 
-
-# \---
-
-# ⭐ Feel free to explore the programs and provide suggestions.
-
+⭐ The repository will be updated regularly as I progress through my Java course.
